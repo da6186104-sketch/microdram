@@ -1,0 +1,6 @@
+{
+  "name": "Microdrama Studio AI",
+  "description": "Generator storyboard, character sheet lock, dan prompt terpadu (visual + dialog lip-sync) untuk produksi microdrama berdurasi 1 hingga 30 menit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
